@@ -44,3 +44,5 @@ attachments/
 
 # Other
 tmp/
+
+*.shortcut
